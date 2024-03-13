@@ -1,4 +1,5 @@
-# SK C&C 직무체험 '이웃하다' 서비스 UIUX 개선 프로젝트
+# SK C&C 직무체험 
+## '이웃하다' 서비스 개선 프로젝트
 
 ![image](https://github.com/Kimy19/SK_CnC_uiux/assets/87708360/6880d20f-6786-4116-bdc4-c6a208489775)
 ![image](https://github.com/Kimy19/SK_CnC_uiux/assets/87708360/52b73958-0532-4cfa-a5a8-c5495f848cad)
